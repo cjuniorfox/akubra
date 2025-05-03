@@ -97,5 +97,3 @@ dnf5 -y copr disable cjuniorfox/hyprland-shell
 dnf5 -y copr disable solopasha/hyprland
 
 #### Example for enabling a System Unit File
-
-systemctl enable chronyd
